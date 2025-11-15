@@ -295,3 +295,4 @@ Issues و Pull requests در GitHub خوش‌آمد هستند!
 **نسخه:** 1.0.0
 **تاریخ:** نوامبر ۲۰۲۵
 **توسعه‌دهنده:** AI Assistant + Medical Experts
+
